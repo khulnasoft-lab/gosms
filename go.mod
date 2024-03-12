@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/gosms
 
-go 1.21.6
+go 1.22.1
 
 require (
 	github.com/gorilla/mux v1.8.1
